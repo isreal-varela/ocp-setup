@@ -1,0 +1,5 @@
+ipa dnsrecord-add ape.dwnstrm. api.sno --a-rec <ip address>
+
+ipa dnsrecord-add ape.dwnstrm. api-int.sno --a-rec <ip address>
+
+ipa dnsrecord-add ape.dwnstrm. *.apps.sno --a-rec <ip address>

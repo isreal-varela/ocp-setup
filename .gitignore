@@ -1,0 +1,12 @@
+**/mirror_seq*.tar
+imageset-back-end/*
+oc-mirror-workspace/*
+oc*.tar.gz
+openshift*.tar.gz
+.oc-mirror.log
+pull*.json
+pull*.txt
+auth/*
+.openshift_install.log
+.openshift_install_state.json
+rendezvousIP
