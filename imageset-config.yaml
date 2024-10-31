@@ -80,6 +80,9 @@ mirror:
     - name: servicemeshoperator
       channels:
       - name: stable 
+    - name: kubernetes-nmstate-operator
+      channels:
+      - name: stable 
 
   additionalImages:
   - name: registry.redhat.io/ubi8/ubi:latest
